@@ -1,6 +1,6 @@
 
  ##
- ![Dashboard Comercial](./assets/Dashboard3.png)
+ ![Dashboard Comercial](./assets/Dashboarda.png)
  #
  # Descrição
  Este painel comercial foca no Volume e Alcance Global da marca. Ele consolida o faturamento total, a base de clientes e a captação por gênero, além de mapear a distribuição geográfica das vendas. É uma ferramenta estratégica para entender a penetração de mercado e o desempenho das diferentes marcas do portfólio em nível mundial
